@@ -6,7 +6,7 @@ The application source code is private and is not published here.
 Download `USBFlow-0.3.0-setup.exe` from the latest release:
 https://github.com/ImEchoCoder/usb-sharing-dist/releases/latest
 
-SHA-256: `D47D6690EDF023C4B7EF589F3468FD14A5DC48B72DC895AD02773BC617634C78`
+SHA-256: `2F77BC417B54062D3A190AA9FD82472DDA5C4C7360019FFEC7A0046826B30219`
 
 Note: GitHub automatically shows "Source code (zip)" and "Source code (tar.gz)"
 links on every release. Those archives are generated from this repository only;
