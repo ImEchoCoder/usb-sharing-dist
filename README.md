@@ -7,7 +7,7 @@ Application source: https://github.com/ImEchoCoder/usbflow (GPL-3.0).
 Download `USBFlow-0.1.0-beta-setup.exe` from the latest release:
 https://github.com/ImEchoCoder/usb-sharing-dist/releases/latest
 
-SHA-256: `58DF57F8A5491288EB451135D0D45B219DD23109B46CA6B06B40EAC0F00DC00C`
+SHA-256: `319135E64D7D437A040FBF1043AB2FD1F4CE9C8FD0CE30F9B050BF565743832A`
 
 Verify before running:
 
@@ -17,6 +17,6 @@ Get-FileHash .\USBFlow-0.1.0-beta-setup.exe -Algorithm SHA256
 
 The installer is unsigned; Windows SmartScreen may warn. Choose **More info → Run anyway** only after the hash matches.
 
-Customer / Share is free. Technician / Connect requires a paid 1-year license (one PC, one permanent machine-locked code).
+Customer / Share is free: enter the technician's code, connect, then toggle USB devices in the live session. Technician / Connect requires a paid 1-year license (one PC, one permanent machine-locked code); attach/detach only changes the device, while **Remove** ends the session for both sides.
 
 GitHub's "Source code (zip)" links on releases are generated from this repository only and contain no application source.
