@@ -1,4 +1,4 @@
-# USBFlow — Public Downloads
+# USBFlow - Public Downloads
 
 This repository contains only the public Windows installer for USBFlow.
 
@@ -7,7 +7,7 @@ Application source: https://github.com/ImEchoCoder/usbflow (GPL-3.0).
 Download `USBFlow-0.1.0-beta-setup.exe` from the latest release:
 https://github.com/ImEchoCoder/usb-sharing-dist/releases/latest
 
-SHA-256: `2FD20DB5D3C75020FEC7EF885A50E3831D24C26D86D85432A6031A3F39696654`
+SHA-256: `94ABA1DE3F10B231E90FCED7EC9569C89AEEAEE99D4EBA137CEA38100EF607EB`
 
 Verify before running:
 
