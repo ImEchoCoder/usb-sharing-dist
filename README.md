@@ -7,7 +7,7 @@ Application source: https://github.com/ImEchoCoder/usbflow (GPL-3.0).
 Download `USBFlow-0.1.0-beta-setup.exe` from the latest release:
 https://github.com/ImEchoCoder/usb-sharing-dist/releases/latest
 
-SHA-256: `60E2EC50AE01490E6835A6D50E7FF727AC80872387CB59DC9E2581A07A72C82A`
+SHA-256: `7D8151391A68CB1F72F4A3AFFD09560F9A00A390FD4841DEE644FB2B5F5724C6`
 
 Verify before running:
 
